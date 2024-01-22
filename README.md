@@ -1,6 +1,6 @@
 ## Hi there, I'm [ Jeffy Sajan ]!
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jeffy-sajan-11562a215/)](https://www.linkedin.com/in/jeffy-sajan-11562a215/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/jeffy-sajan-11562a215/)](https://www.linkedin.com/in/jeffy-sajan-11562a215/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffysajan9400@gmail.com)](mailto:jeffysajan9400@gmail.com)
 
 👋 Welcome to my GitHub profile!
