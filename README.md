@@ -8,7 +8,7 @@
 print(' About Me  ')
 
 ```javascript
-enter  = {
+input  = {
     myself: [ Jeffy Sajan ],
     code: ["Python","Javascript"],
     interested in : [ Web Developement ],
